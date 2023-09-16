@@ -1,6 +1,14 @@
 ### Hi there 👋
 🛠️Work in progress🛠️
-
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages </b></summary>
+  <br/>
+https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png
+https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
+https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png
+https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-sql-format-type-512.png
+https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png
+  
 <details>
   <summary><b>🛠️&nbsp;&nbsp;ML/DL Libraries </b></summary>
   <br/>

@@ -15,6 +15,8 @@
 <img src=https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg
  alt="scikit-learn" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
 
+<img src=https://clipart-library.com/newhp/microsoft-sql-server-microsoft-azure-sql-database-microsoft.jpg alt="SQL" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
+
 
 </details>
 

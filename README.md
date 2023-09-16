@@ -2,7 +2,7 @@
 🛠️Work in progress🛠️
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Libraries </b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;ML/DL Libraries </b></summary>
   <br/>
 
 
@@ -19,6 +19,30 @@
 
 
 </details>
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Data Manipulation Libraries </b></summary>
+  <br/>
+
+<img src=https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.svg alt="numpy" width="55" height="55"/> </a> <a href="https://www.numpy.com/" target="_blank"> 
+
+<img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
+ alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"> 
+</details>
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Databases (libraries) </b></summary>
+  <br/>
+
+<img src=https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg
+ alt="postgreSQL" width="55" height="55"/> </a> <a href="https://www.postgresql.org/" target="_blank"> 
+
+<img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
+ alt="PySpark" width="55" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
+
+</details>
+
+
 
 
 <!--

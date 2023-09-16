@@ -11,7 +11,8 @@
  alt="R" width="55" height="55"/> </a> <a href="https://www.r-project.org/" target="_blank"> 
         <img src=https://cdn3.iconfinder.com/data/icons/dompicon-glyph-file-format-2/256/file-sql-format-type-512.png
 alt="SQL" width="55" height="55"/> </a>  
-https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png
+  <img src=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png
+="Bash/CL" width="55" height="55"/> </a>  
 
 
 </details>

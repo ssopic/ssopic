@@ -19,10 +19,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 
 
-<img src=https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.svg alt="numpy" width="55" height="55"/> </a> <a href="https://www.numpy.com/" target="_blank"> 
 
-<img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
- alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"> 
 
 <img src=https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg
  alt="scikit-learn" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
@@ -31,7 +28,10 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
  alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
 <img src=https://imbalanced-learn.org/stable/_static/logo_wide.png
  alt="Imbalanced learn" width="150" height="55"/> </a> <a href="https://imbalanced-learn.org/stable/#" target="_blank"> 
+ <img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg
+ alt="Tensorflow Keras" width="150" height="55"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> 
 
+ 
 </details>
 
 <details>

@@ -22,11 +22,11 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 
 <img src=https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg
- alt="scikit-learn" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
+ alt="scikit-learn" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
  alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
 <img src=https://imbalanced-learn.org/stable/_static/logo_wide.png
  alt="Imbalanced learn" width="150" height="55"/> </a> <a href="https://imbalanced-learn.org/stable/#" target="_blank"><img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg
- alt="Tensorflow Keras" width="55" height="55"/> </a> <a href="https://www.tensorflow.org/" target="_blank"><img src=https://raw.githubusercontent.com/ssopic/ssopic/6d45c5bd5e880c74fcad6325c440550f7aa70798/openai-logomark.svg
+ alt="Tensorflow Keras" width="45" height="55"/> </a> <a href="https://www.tensorflow.org/" target="_blank"><img src=https://raw.githubusercontent.com/ssopic/ssopic/6d45c5bd5e880c74fcad6325c440550f7aa70798/openai-logomark.svg
  alt="OpenAI" width="55" height="55"/> </a> <a href="https://openai.com/" target="_blank"> 
  
  

@@ -2,7 +2,7 @@
 🛠️Work in progress🛠️
 
 <!-- Starting Decorator -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=1538F7&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a>
 
 
 

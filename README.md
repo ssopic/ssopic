@@ -9,10 +9,7 @@
  alt="R" width="55" height="55"/> </a> <a href="https://www.r-project.org/" target="_blank"><img src=https://www.svgrepo.com/show/331760/sql-database-generic.svg
 alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png
 ="Bash/CL" width="55" height="55"/> </a>  
-
-
 </details>
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;ML/DL Libraries </b></summary>
   <br/>
@@ -31,28 +28,15 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 ="Matplotlib" width="55" height="55"/> </a><img src=https://python-visualization.github.io/folium/latest/_static/folium_logo.png
 ="Folium" width="55" height="55"/> </a><img src=https://ggplot2.tidyverse.org/logo.png
 ="GGplot2" width="55" height="55"/> </a>
-
-
-
-
-
-
-
-
 </details>
-
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Data Manipulation Libraries </b></summary>
   <br/>
-
 <img src=https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.svg alt="numpy" width="55" height="55"/> </a> <a href="https://www.numpy.com/" target="_blank"><img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
  alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"><img src=https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg
  alt="Regex" width="150" height="55"/> 
- 
- 
 </details>
-
+   
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Databases (libraries) </b></summary>
   <br/>
@@ -86,7 +70,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Design and documentation </b></summary>
   <br/>
-<img src=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/bpmn/featured.svg  alt="Data Flow Diagram" width="55" height="55"/></a><img src=https://landing.moqups.com/img/covers/diagrams/uml-diagrams/UML.png  alt="UML" width="55" height="55"/> </a><img src=https://www.researchgate.net/profile/Byung-Lee-14/publication/220278871/figure/fig1/AS:644295870664713@1530623514318/An-example-EER-schema.png  alt="EER" width="55" height="55"/> </a>   
+<img src=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/bpmn/featured.svg  alt="Data Flow Diagram" width="55" height="55"/></a><img src=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-Class-Diagram-Example-Transparent.png  alt="UML" width="55" height="55"/> </a><img src=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/ERD/discovery/erd-feature.svg  alt="EER" width="55" height="55"/> </a>   
 
   
 

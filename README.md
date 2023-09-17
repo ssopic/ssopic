@@ -36,12 +36,8 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   <summary><b>🛠️&nbsp;&nbsp;Data Manipulation Libraries </b></summary>
   <br/>
 
-<img src=https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.svg alt="numpy" width="55" height="55"/> </a> <a href="https://www.numpy.com/" target="_blank"> 
-
-<img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
- alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"> 
-
-<img src=https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg
+<img src=https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.svg alt="numpy" width="55" height="55"/> </a> <a href="https://www.numpy.com/" target="_blank"><img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
+ alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"><img src=https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg
  alt="Regex" width="150" height="55"/> 
  
  

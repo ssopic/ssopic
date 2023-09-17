@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://i.imgur.com/hstdpul.mp4">
+<img src="https://i.imgur.com/0LXxhn5.gif">
 
 <!-- Starting Decorator -->
 My interests are:

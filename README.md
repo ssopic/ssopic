@@ -27,7 +27,8 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <img src=https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg
  alt="scikit-learn" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
 
-<img src=https://clipart-library.com/newhp/microsoft-sql-server-microsoft-azure-sql-database-microsoft.jpg alt="SQL" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
+<img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
+ alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
 
 
 </details>
@@ -40,6 +41,12 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 <img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
  alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"> 
+<img src=https://imbalanced-learn.org/stable/_static/logo_wide.png
+ alt="Imbalanced learn" width="150" height="55"/> </a> <a href="https://imbalanced-learn.org/stable/#" target="_blank"> 
+<img src=https://commons.wikimedia.org/wiki/Category:Regex_icons#/media/File:Toolbaricon_RegEx.svg
+ alt="Regex" width="150" height="55"/> </a> 
+ 
+ 
 </details>
 
 <details>
@@ -51,6 +58,8 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 <img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
  alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
+
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
 
 </details>
 
@@ -66,7 +75,6 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> 
 
 
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
 
 
 Here are some ideas to get you started:

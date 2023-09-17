@@ -73,10 +73,12 @@ https://ggplot2.tidyverse.org/logo.png
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Soft skills </b></summary>
   <br/>
+  
 <img src=https://www.svgrepo.com/show/204277/brainstorm-idea.svg alt="Brainstorming" width="55" height="55"/> </a>  
 <img src=https://www.svgrepo.com/show/71769/deal.svg  alt="Collaboration" width="55" height="55"/> </a>  
 <img src=https://www.svgrepo.com/show/101834/binary-mind.svg  alt="Prompt Engineering" width="55" height="55"/> </a>  
-
+<img src=https://www.svgrepo.com/show/308008/problem-solving-fix-offer-solution-solve.svg  alt="Problem Solving" width="55" height="55"/> </a>  
+<img src=https://www.svgrepo.com/show/533434/presentation-chart.svg   alt="Presentation" width="55" height="55"/> </a>  
 
 </details>
 

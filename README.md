@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="https://i.imgur.com/0LXxhn5.gif">
+the intro to my profile should go here
+<img align="right" alt="GIF" src="https://i.imgur.com/0LXxhn5.gif" width="360px"/>
+
 
 <!-- Starting Decorator -->
 My interests are:

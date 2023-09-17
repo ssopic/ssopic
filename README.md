@@ -2,10 +2,12 @@
 🛠️Work in progress🛠️
 
 <!-- Starting Decorator -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=271DF7&center=true&vCenter=true&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing)](https://git.io/typing-svg)
-<details>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=1538F7&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing)](https://git.io/typing-svg)
 
-  
+
+
+
+<details>  
   <summary><b>🛠️&nbsp;&nbsp;Languages </b></summary>
   <br/>
   <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png

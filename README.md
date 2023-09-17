@@ -30,7 +30,9 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
  alt="Imbalanced learn" width="150" height="55"/> </a> <a href="https://imbalanced-learn.org/stable/#" target="_blank"> 
  <img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg
  alt="Tensorflow Keras" width="150" height="55"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> 
-
+ <img src=https://raw.githubusercontent.com/ssopic/ssopic/6d45c5bd5e880c74fcad6325c440550f7aa70798/openai-logomark.svg
+ alt="OpenAI" width="55" height="55"/> </a> <a href="https://openai.com/" target="_blank"> 
+ 
  
 </details>
 

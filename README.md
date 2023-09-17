@@ -1,5 +1,6 @@
 ### Hi there 👋
 🛠️Work in progress🛠️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=271DF7&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing)](https://git.io/typing-svg)
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages </b></summary>
   <br/>
@@ -61,7 +62,6 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Soft skills </b></summary>
   <br/>
-  
 <img src=https://www.svgrepo.com/show/204277/brainstorm-idea.svg alt="Brainstorming" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/71769/deal.svg  alt="Collaboration" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/101834/binary-mind.svg  alt="Prompt Engineering" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/308008/problem-solving-fix-offer-solution-solve.svg  alt="Problem Solving" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/533434/presentation-chart.svg   alt="Presentation" width="55" height="55"/> </a>  
 
 </details>

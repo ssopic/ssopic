@@ -16,11 +16,6 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;ML/DL Libraries </b></summary>
   <br/>
-
-
-
-
-
 <img src=https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg
  alt="scikit-learn" width="55" height="55"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
  alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
@@ -28,9 +23,20 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
  alt="Imbalanced learn" width="150" height="55"/> </a> <a href="https://imbalanced-learn.org/stable/#" target="_blank"><img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg
  alt="Tensorflow Keras" width="45" height="55"/> </a> <a href="https://www.tensorflow.org/" target="_blank"><img src=https://raw.githubusercontent.com/ssopic/ssopic/6d45c5bd5e880c74fcad6325c440550f7aa70798/openai-logomark.svg
  alt="OpenAI" width="55" height="55"/> </a> <a href="https://openai.com/" target="_blank"> 
- 
- 
 </details>
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Data Visualization Libraries </b></summary>
+
+
+https://raw.githubusercontent.com/mwaskom/seaborn/fbc44d57b34dadbea765da3ae3d52cf4fa6effbf/doc/_static/logo-mark-lightbg.svg
+
+https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png
+
+https://python-visualization.github.io/folium/latest/_static/folium_logo.png
+
+https://ggplot2.tidyverse.org/logo.png
+</details>
+
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Data Manipulation Libraries </b></summary>
@@ -56,10 +62,28 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
 
 </details>
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Data Visualization Software </b></summary>
+  <br/>
 
 
+</details>
+
+</details>
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Soft skills </b></summary>
+  <br/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
+
+</details>
 
 
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Design and documentation </b></summary>
+  <br/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
+
+</details>
 <!--
 **ssopic/ssopic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #I need to check tableaus width

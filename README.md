@@ -1,7 +1,11 @@
 ### Hi there 👋
 🛠️Work in progress🛠️
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=271DF7&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing)](https://git.io/typing-svg)
+
+<!-- Starting Decorator -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=271DF7&center=true&vCenter=true&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing)](https://git.io/typing-svg)
 <details>
+
+  
   <summary><b>🛠️&nbsp;&nbsp;Languages </b></summary>
   <br/>
   <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png
@@ -78,7 +82,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
   
 </details>
-<!--
+<!-- 
 **ssopic/ssopic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #I need to check tableaus width
 <img src=https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png alt="Tableau" width="40" height="40"/> </a> <a href="https://www.tableau.com" target="_blank"> 

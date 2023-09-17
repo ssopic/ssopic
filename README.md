@@ -26,15 +26,19 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 </details>
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Data Visualization Libraries </b></summary>
+<img src=https://raw.githubusercontent.com/mwaskom/seaborn/fbc44d57b34dadbea765da3ae3d52cf4fa6effbf/doc/_static/logo-mark-lightbg.svg
+="Seaborn" width="55" height="55"/> </a><img src=https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png
+="Matplotlib" width="55" height="55"/> </a><img src=https://python-visualization.github.io/folium/latest/_static/folium_logo.png
+="Folium" width="55" height="55"/> </a><img src=https://ggplot2.tidyverse.org/logo.png
+="GGplot2" width="55" height="55"/> </a>
 
 
-https://raw.githubusercontent.com/mwaskom/seaborn/fbc44d57b34dadbea765da3ae3d52cf4fa6effbf/doc/_static/logo-mark-lightbg.svg
 
-https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png
 
-https://python-visualization.github.io/folium/latest/_static/folium_logo.png
 
-https://ggplot2.tidyverse.org/logo.png
+
+
+
 </details>
 
 

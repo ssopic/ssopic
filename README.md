@@ -43,7 +43,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
  alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"> 
 <img src=https://imbalanced-learn.org/stable/_static/logo_wide.png
  alt="Imbalanced learn" width="150" height="55"/> </a> <a href="https://imbalanced-learn.org/stable/#" target="_blank"> 
-<img src=https://commons.wikimedia.org/wiki/Category:Regex_icons#/media/File:Toolbaricon_RegEx.svg
+<img src=https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg
  alt="Regex" width="150" height="55"/> 
  
  

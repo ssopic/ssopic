@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://i.imgur.com/hstdpul.mp4
+<img src="https://i.imgur.com/hstdpul.mp4">
+
 <!-- Starting Decorator -->
 My interests are:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

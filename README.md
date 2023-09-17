@@ -1,10 +1,9 @@
 ### Hi there 👋
-🛠️Work in progress🛠️
 
 <!-- Starting Decorator -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a>
 
-
+Skills:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 

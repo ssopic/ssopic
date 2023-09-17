@@ -86,7 +86,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Design and documentation </b></summary>
   <br/>
-<img src=https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pbSrs5Y9-Or22jyLIz7wAg.png  alt="Data Flow Diagram" width="55" height="55"/></a><img src=https://landing.moqups.com/img/covers/diagrams/uml-diagrams/UML.png  alt="UML" width="55" height="55"/> </a><img src=https://www.researchgate.net/profile/Byung-Lee-14/publication/220278871/figure/fig1/AS:644295870664713@1530623514318/An-example-EER-schema.png  alt="EER" width="55" height="55"/> </a>   
+<img src=https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/bpmn/featured.svg  alt="Data Flow Diagram" width="55" height="55"/></a><img src=https://landing.moqups.com/img/covers/diagrams/uml-diagrams/UML.png  alt="UML" width="55" height="55"/> </a><img src=https://www.researchgate.net/profile/Byung-Lee-14/publication/220278871/figure/fig1/AS:644295870664713@1530623514318/An-example-EER-schema.png  alt="EER" width="55" height="55"/> </a>   
 
   
 

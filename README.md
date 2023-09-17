@@ -86,8 +86,13 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Design and documentation </b></summary>
   <br/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
+<img src=https://www.researchgate.net/profile/Mazen-Arafah/publication/266140114/figure/fig1/AS:613984256417830@1523396662955/Prescriptions-preparation-swimlane-flowchart-see-online-version-for-colours.png  alt="Data Flow Diagram" width="55" height="55"/></a><img src=https://landing.moqups.com/img/covers/diagrams/uml-diagrams/UML.png  alt="UML" width="55" height="55"/> </a><img src=https://www.researchgate.net/profile/Byung-Lee-14/publication/220278871/figure/fig1/AS:644295870664713@1530623514318/An-example-EER-schema.png  alt="EER" width="55" height="55"/> </a>   
 
+  
+
+  
+
+  
 </details>
 <!--
 **ssopic/ssopic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

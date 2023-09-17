@@ -73,7 +73,10 @@ https://ggplot2.tidyverse.org/logo.png
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Soft skills </b></summary>
   <br/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
+<img src=https://www.svgrepo.com/show/204277/brainstorm-idea.svg alt="Brainstorming" width="55" height="55"/> </a>  
+<img src=https://www.svgrepo.com/show/71769/deal.svg  alt="Collaboration" width="55" height="55"/> </a>  
+<img src=https://www.svgrepo.com/show/101834/binary-mind.svg  alt="Prompt Engineering" width="55" height="55"/> </a>  
+
 
 </details>
 

@@ -6,7 +6,7 @@ the intro to my profile should go here
 https://imgur.com/t/animated_gif/QlKudMk this is the one that needs to be transferred into a gif
 https://i.imgur.com/9phU1la.gif
 https://i.imgur.com/rxlAued.gif-->
-
+What I do:
 <!-- Interests -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://git.io/typing-svg">

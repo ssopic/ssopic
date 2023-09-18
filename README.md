@@ -108,7 +108,8 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   <br/>
   
 ![](https://img.shields.io/badge/Data_Flow_Diagrams-green) ![](https://img.shields.io/badge/UML-green) ![](https://img.shields.io/badge/EER-green) ![](https://img.shields.io/badge/Jupyter-green)
-  
+  </details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   

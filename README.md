@@ -32,6 +32,7 @@ by consuming copious amounts of coffee <br>
 - 🧾 I have experience in data preprocessing and cleaning, which is essential for basically anything <br>
 - 📊 I pronounce SQL like "sequel" <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 My skills are:

@@ -15,7 +15,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 -->
-<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="240px"/>
+<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="200px" />
 
 - 🌱 I’m currently learning DL to graduate from ML <br>
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>

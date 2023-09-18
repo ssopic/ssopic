@@ -113,4 +113,10 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
-[Click Here](https://www.example.com)
+
+🔗 &nbsp;**Connect with me**
+
+<a href="https://www.linkedin.com/in/silvio-sopic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Silvio Sopic" height="30" width="40" /></a>
+<a href="mailto:silvio.sopic@gmail.com">
+  <img align="center" src="https://raw.githubusercontent.com/Ishaan28malik/react-gmail-logo/master/src/Assets/gmail.png" alt="Email" height="30" width="40" />
+</a>

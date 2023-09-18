@@ -15,8 +15,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 -->
+<img align="right" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px"/>
 
-<img src="https://i.imgur.com/6bJkPh0.gif">
 What I do:
 <!-- Interests -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

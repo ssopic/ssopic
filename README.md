@@ -1,5 +1,10 @@
+
+<!-- Interests -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Hi there 👋
-🛠️ work in progress 🛠️
 
 <!--  
 the intro to my profile should go here
@@ -27,11 +32,6 @@ by consuming copious amounts of coffee <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
 - 🧾 I have experience in data preprocessing and cleaning, which is essential for basically anything <br>
 - 📊 I pronounce SQL like "sequel" <br>
-
-<!-- Interests -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 

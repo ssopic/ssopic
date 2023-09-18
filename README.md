@@ -20,7 +20,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 -->
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />
-### Hi there 👋
+### Hi there 👋 <br>
 - 🌱 I’m currently learning DL to graduate from ML <br>
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 📊 Data visualization tools I excel in are not Excel. <br>

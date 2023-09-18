@@ -11,7 +11,6 @@
 - 📈 Data isn't just numbers; it's stories waiting to be told.
 - 📊 My code transforms numbers into insights.
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
-- 🧾 I have experience in data preprocessing and cleaning, which is essential for any algorithm <br>
 - 📊 I pronounce SQL like "sequel" <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -72,6 +71,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <img src=https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/secondary/numpylogo2.svg alt="numpy" width="55" height="55"/> </a> <a href="https://www.numpy.com/" target="_blank"><img src=https://pandas.pydata.org/static/img/pandas_secondary_white.svg
  alt="pandas" width="55" height="55"/> </a> <a href="https://www.pandas.com/" target="_blank"><img src=https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg
  alt="Regex" width="150" height="55"/> 
+   
 </details>
    
 <details>
@@ -117,4 +117,9 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <a href="https://www.linkedin.com/in/silvio-sopic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Silvio Sopic" height="30" width="40" /></a>
 <a href="mailto:silvio.sopic@gmail.com">
   <img align="center" src="https://raw.githubusercontent.com/Ishaan28malik/react-gmail-logo/master/src/Assets/gmail.png" alt="Email" height="30" width="40" />
+[![Download CV](https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220)](https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf)
+
+
+  ![image](https://github.com/ssopic/ssopic/assets/18428356/9ca28284-fef8-4dcc-97aa-462e2d4b4b13)
+
 </a>

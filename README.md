@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />
+<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="350px" height="360px" />
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
 - 🌱 I’m currently learning DL to graduate from ML <br>

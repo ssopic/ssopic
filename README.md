@@ -6,11 +6,10 @@
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="350px" height="360px" />
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
-- 🌱 I’m currently learning DL to graduate from ML <br>
+- 📚 Turning raw data into valuable stories, one analysis at a time. 📈
 - 📊 Data visualization tools I excel in are Tableau, PowerBI, and Cognos. <br>
-- 🗺️ My dream project involves customer analysis <br>
-- 🏋️ I believe in maintaining a healthy work-life balance
-by consuming copious amounts of coffee <br>
+- 📈 Data isn't just numbers; it's stories waiting to be told.
+- 📊 My code transforms numbers into insights.
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
 - 🧾 I have experience in data preprocessing and cleaning, which is essential for any algorithm <br>
 - 📊 I pronounce SQL like "sequel" <br>

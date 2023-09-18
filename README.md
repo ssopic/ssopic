@@ -19,20 +19,6 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 -->
-<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />
-Hi there 👋 <br>
-- 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
-- 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
-- 🌱 I’m currently learning DL to graduate from ML <br>
-- 📊 Data visualization tools I excel in are Tableau, PowerBI, and Cognos. <br>
-- 🗺️ My dream project involves customer analysis <br>
-- 🏋️ I believe in maintaining a healthy work-life balance <br>
-by consuming copious amounts of coffee <br>
-- 🏫 I'm interested in online courses and certifications related to DL and ML <br>
-- 🧾 I have experience in data preprocessing and cleaning, which is essential for any algorithm <br>
-- 📊 I pronounce SQL like "sequel" <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 My skills are:
@@ -116,17 +102,19 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
   
 </details>
-<!-- 
-**ssopic/ssopic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#I need to check tableaus width
-<img src=https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png alt="Tableau" width="40" height="40"/> </a> <a href="https://www.tableau.com" target="_blank"> 
-
-Visitor count
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 
+<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />
+- 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
+- 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
+- 🌱 I’m currently learning DL to graduate from ML <br>
+- 📊 Data visualization tools I excel in are Tableau, PowerBI, and Cognos. <br>
+- 🗺️ My dream project involves customer analysis <br>
+- 🏋️ I believe in maintaining a healthy work-life balance <br>
+by consuming copious amounts of coffee <br>
+- 🏫 I'm interested in online courses and certifications related to DL and ML <br>
+- 🧾 I have experience in data preprocessing and cleaning, which is essential for any algorithm <br>
+- 📊 I pronounce SQL like "sequel" <br>
 
-Here are some ideas to get you started:
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

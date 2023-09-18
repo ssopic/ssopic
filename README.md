@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning DL to graduate from ML <br>
 - 📊 Data visualization tools I excel in are Tableau, PowerBI, and Cognos. <br>
 - 🗺️ My dream project involves customer analysis <br>
-- 🏋️ I believe in maintaining a healthy work-life balance <br>
+- 🏋️ I believe in maintaining a healthy work-life balance
 by consuming copious amounts of coffee <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
 - 🧾 I have experience in data preprocessing and cleaning, which is essential for any algorithm <br>

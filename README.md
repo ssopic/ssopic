@@ -3,41 +3,8 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![Shield 1](shield1.svg)](link1) &nbsp;&nbsp;&nbsp; [![Shield 2](shield2.svg)](link2) &nbsp;&nbsp;&nbsp; [![Shield 3](shield3.svg)](link3)
 
-<div style="text-align: center;">
-  <img src="image_url_1.jpg" alt="Image 1" style="width: 100px; height: auto;">
-  <p>
-    <img src="https://img.shields.io/badge/Badge_1-Value_1-brightgreen" alt="Badge 1">
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <img src="image_url_2.jpg" alt="Image 2" style="width: 100px; height: auto;">
-  <p>
-    <img src="https://img.shields.io/badge/Badge_2-Value_2-blue" alt="Badge 2">
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <img src="image_url_3.jpg" alt="Image 3" style="width: 100px; height: auto;">
-  <p>
-    <img src="https://img.shields.io/badge/Badge_3-Value_3-orange" alt="Badge 3">
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <img src="image_url_4.jpg" alt="Image 4" style="width: 100px; height: auto;">
-  <p>
-    <img src="https://img.shields.io/badge/Badge_4-Value_4-red" alt="Badge 4">
-  </p>
-</div>
-
-<div style="text-align: center;">
-  <img src="image_url_5.jpg" alt="Image 5" style="width: 100px; height: auto;">
-  <p>
-    <img src="https://img.shields.io/badge/Badge_5-Value_5-purple" alt="Badge 5">
-  </p>
-</div>
 
 
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />

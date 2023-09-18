@@ -1,5 +1,4 @@
-[PowerBI](https://img.shields.io/badge/PowerBI
-)
+<img src=https://img.shields.io/badge/PowerBI)
 
 
 <!-- Interests -->

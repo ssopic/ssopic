@@ -113,40 +113,15 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   
 
 🔗 &nbsp;**Connect with me**
-<div align="center">
-  <span class="arrow left-arrow">&#x2190;</span>
-  <div style="display: inline-block; text-align: center;">
-    <a href="https://www.linkedin.com/in/silvio-sopic/" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Silvio Sopic" height="30" width="40" />
-    </a>
-    <a href="mailto:silvio.sopic@gmail.com">
-      <img src="https://raw.githubusercontent.com/Ishaan28malik/react-gmail-logo/master/src/Assets/gmail.png" alt="Email" height="30" width="40" />
-    </a>
-    <a href="https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf" target="blank">
-      <img src="https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220" alt="Download CV" width="40" height="30" />
-    </a>
-  </div>
-  <span class="arrow right-arrow">&#x2192;</span>
-</div>
-
-<style>
-  .arrow {
-    font-size: 36px;
-    color: red;
-    transition: color 0.5s;
-  }
-  .arrow:hover {
-    color: orange;
-  }
-  .left-arrow {
-    float: left;
-    margin-right: 10px;
-  }
-  .right-arrow {
-    float: right;
-    margin-left: 10px;
-  }
-</style>
+<a href="https://www.linkedin.com/in/silvio-sopic/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Silvio Sopic" height="30" width="40" style="vertical-align: middle;" />
+</a>
+<a href="mailto:silvio.sopic@gmail.com">
+  <img src="https://raw.githubusercontent.com/Ishaan28malik/react-gmail-logo/master/src/Assets/gmail.png" alt="Email" height="30" width="40" style="vertical-align: middle;" />
+</a>
+<a href="https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf" target="blank" allign="center">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220" alt="Download CV" width="40" height="30" />
+</a>
 
 
 </a>

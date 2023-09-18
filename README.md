@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hi there 👋
 
 <!--  
 the intro to my profile should go here
@@ -21,7 +20,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 -->
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />
-
+### Hi there 👋
 - 🌱 I’m currently learning DL to graduate from ML <br>
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 📊 Data visualization tools I excel in are not Excel. <br>

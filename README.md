@@ -34,8 +34,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 -->
 
-
-My skills are:
+**Skills**
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 

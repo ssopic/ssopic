@@ -113,6 +113,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   
 
 🔗 &nbsp;**Connect with me**
+
 <a href="https://www.linkedin.com/in/silvio-sopic/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Silvio Sopic" height="30" width="40" style="vertical-align: middle;" />
 </a>

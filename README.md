@@ -6,31 +6,13 @@
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="350px" height="360px" />
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
-- 📚 Turning raw data into valuable stories, one analysis at a time. 📈
+- 📚 Turning raw data into valuable stories, one analysis at a time. 📈 <br>
 - 📊 Data visualization tools I excel in are Tableau, PowerBI, and Cognos. <br>
-- 📈 Data isn't just numbers; it's stories waiting to be told.
-- 📊 My code transforms numbers into insights.
+- 📈 Data isn't just numbers; it's stories waiting to be told. <br>
+- 📊 My code transforms numbers into insights. <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
-- 📊 I pronounce SQL like "sequel" <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<!--  
-the intro to my profile should go here
-https://imgur.com/t/animated_gif/QlKudMk this is the one that needs to be transferred into a gif
-https://i.imgur.com/9phU1la.gif
-https://i.imgur.com/rxlAued.gif
-https://imgur.com/t/gif/dKz20dJ to the right gif
-https://imgur.com/t/gif/XcBelEE another skills gif
-https://i.imgur.com/1Xn3FX9.mp4 the don
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-
-
--->
 
 **Skills**
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>

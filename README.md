@@ -18,10 +18,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px"/>
 
 - 🌱 I’m currently learning DL to graduate from ML <br>
+- 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
+- 📊 Data visualization tools I excel in are not Excel. <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee, <br>
   and I won't stop until I find it. ☕ <br>
-- 🎓 I hold degrees in Business Informatics and Marketing <br>
-- 📊 Data visualization tools I excel in are not Excel. <br>
 - 🗺️ My dream project involves customer analysis <br>
 - 🏋️ I believe in maintaining a healthy work-life <br>
   balance by consuming copious amounts of coffee <br>
@@ -29,7 +29,6 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - 🧾 I have experience in data preprocessing and cleaning, <br>
   which is essential for basically anything <br>
 - 📊 I pronounce SQL like "sequel" <br>
-+ 🍩 Donuts and code—a hole lot of fun! 🍩💻 <br>
 
 <!-- Interests -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

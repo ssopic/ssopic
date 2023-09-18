@@ -15,7 +15,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 -->
-<img align="right" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="240px"/>
+<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px"/>
 
 What I do:
 <!-- Interests -->

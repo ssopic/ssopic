@@ -100,6 +100,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   <br/>
 <img src=https://www.svgrepo.com/show/204277/brainstorm-idea.svg alt="Brainstorming" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/71769/deal.svg  alt="Collaboration" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/101834/binary-mind.svg  alt="Prompt Engineering" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/308008/problem-solving-fix-offer-solution-solve.svg  alt="Problem Solving" width="55" height="55"/> </a><img src=https://www.svgrepo.com/show/533434/presentation-chart.svg   alt="Presentation" width="55" height="55"/> </a>  
 &nbsp;&nbsp;&nbsp;
+  
 ![](https://img.shields.io/badge/Brainstorming-green) ![](https://img.shields.io/badge/Collaboration-green)
 </details>
 

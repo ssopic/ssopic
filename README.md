@@ -5,7 +5,14 @@
 the intro to my profile should go here
 https://imgur.com/t/animated_gif/QlKudMk this is the one that needs to be transferred into a gif
 https://i.imgur.com/9phU1la.gif
-https://i.imgur.com/rxlAued.gif-->
+https://i.imgur.com/rxlAued.gif
+https://imgur.com/t/gif/dKz20dJ to the right gif
+https://imgur.com/t/gif/XcBelEE another skills gif
+https://imgur.com/t/gif/QIKPE3P the donut gif
+https://imgur.com/t/gif/pljFhFE the baymax gif
+
+https://app.bitly.com/Bn9icRYps72/dashboard/ the bitly link
+-->
 What I do:
 <!-- Interests -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -99,8 +106,8 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 #I need to check tableaus width
 <img src=https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png alt="Tableau" width="40" height="40"/> </a> <a href="https://www.tableau.com" target="_blank"> 
 
-
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+Visitor count
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 

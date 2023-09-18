@@ -95,10 +95,11 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Data Visualization Software </b></summary>
   <br/>
-![](https://img.shields.io/badge/PowerBI-green) 
-![](https://img.shields.io/badge/Tableau-green) 
-![](https://img.shields.io/badge/Cognos-green)
 
+<p>
+  <img src="https://img.shields.io/badge/Badge_1-Value_1-brightgreen" alt="Badge 1" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Badge_2-Value_2-blue" alt="Badge 2">
+</p>
 
 
 

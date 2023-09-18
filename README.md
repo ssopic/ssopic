@@ -1,9 +1,10 @@
 ### Hi there 👋
 the intro to my profile should go here
 <img align="right" alt="GIF" src="https://i.imgur.com/0LXxhn5.gif" width="360px"/>
-<!-- gifIlike https://i.imgur.com/9phU1la.gif -->
+<!-- gifIlike 
+https://i.imgur.com/9phU1la.gif
+https://i.imgur.com/rxlAued.gif-->
 
-My interests are:
 <!-- Interests -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://git.io/typing-svg">

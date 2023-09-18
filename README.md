@@ -3,10 +3,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Shield 1](shield1.svg)](link1) &nbsp;&nbsp;&nbsp; [![Shield 2](shield2.svg)](link2) &nbsp;&nbsp;&nbsp; [![Shield 3](shield3.svg)](link3)
-
-
-
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="360px" height="360px" />
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
@@ -96,6 +92,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Data Visualization Software </b></summary>
   <br/>
+![](https://img.shields.io/badge/Tableau-green)
 
 <p>
   <img src="https://img.shields.io/badge/Badge_1-Value_1-brightgreen" alt="Badge 1" style="margin-right: 10px;">

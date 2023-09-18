@@ -3,7 +3,6 @@
 
 <!--  
 the intro to my profile should go here
-<img align="right" alt="GIF" src="https://i.imgur.com/0LXxhn5.gif" width="360px"/>
 https://imgur.com/t/animated_gif/QlKudMk this is the one that needs to be transferred into a gif
 https://i.imgur.com/9phU1la.gif
 https://i.imgur.com/rxlAued.gif-->

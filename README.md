@@ -95,7 +95,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Data Visualization Software </b></summary>
   <br/>
-![](https://img.shields.io/badge/PowerBI-green)![](https://img.shields.io/badge/Tableau-green)![](https://img.shields.io/badge/Cognos-green)
+![](https://img.shields.io/badge/PowerBI-green) ![](https://img.shields.io/badge/Tableau-green) ![](https://img.shields.io/badge/Cognos-green)
 
 
 

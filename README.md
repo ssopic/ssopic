@@ -81,12 +81,8 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   <br/>
 
 <img src=https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg
- alt="postgreSQL" width="110" height="55"/> </a> <a href="https://www.postgresql.org/" target="_blank"> 
-
-<img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
- alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"> 
-
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
+ alt="postgreSQL" width="110" height="55"/> </a> <a href="https://www.postgresql.org/" target="_blank"><img src=https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png
+ alt="PySpark" width="80" height="55"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt="mysql" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
 
 </details>
 <details>

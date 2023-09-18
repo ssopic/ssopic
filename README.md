@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/PowerBI-""-green)
+![](https://img.shields.io/badge/PowerBI-green)
 
 
 

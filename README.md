@@ -22,7 +22,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - 📊 Data visualization tools I excel in are not Excel. <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
 - 🗺️ My dream project involves customer analysis <br>
-- 🏋️ I believe in maintaining a healthy work-life balance by consuming copious amounts of coffee <br>
+- 🏋️ I believe in maintaining a healthy work-life balance <br>
+by consuming copious amounts of coffee <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
 - 🧾 I have experience in data preprocessing and cleaning, which is essential for basically anything <br>
 - 📊 I pronounce SQL like "sequel" <br>

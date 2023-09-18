@@ -117,7 +117,9 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 <a href="https://www.linkedin.com/in/silvio-sopic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Silvio Sopic" height="30" width="40" /></a>
 <a href="mailto:silvio.sopic@gmail.com">
   <img align="center" src="https://raw.githubusercontent.com/Ishaan28malik/react-gmail-logo/master/src/Assets/gmail.png" alt="Email" height="30" width="40" />
-[![Download CV](https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220)](https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf)
+<a href="https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf" target="_blank">
+  <img src="https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220" alt="Download CV" width="200" height="200">
+</a>
 
 
 

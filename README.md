@@ -8,10 +8,12 @@ https://i.imgur.com/9phU1la.gif
 https://i.imgur.com/rxlAued.gif
 https://imgur.com/t/gif/dKz20dJ to the right gif
 https://imgur.com/t/gif/XcBelEE another skills gif
-https://imgur.com/t/gif/QIKPE3P the donut gif
-https://imgur.com/t/gif/pljFhFE the baymax gif
+https://i.imgur.com/1Xn3FX9.mp4 the don
 
-https://app.bitly.com/Bn9icRYps72/dashboard/ the bitly link
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
 -->
 What I do:
 <!-- Interests -->
@@ -19,6 +21,7 @@ What I do:
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://imgur.com/a/cl2Pi7A">
 
 My skills are:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>

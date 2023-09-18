@@ -120,6 +120,5 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 [![Download CV](https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220)](https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf)
 
 
-  ![image](https://github.com/ssopic/ssopic/assets/18428356/9ca28284-fef8-4dcc-97aa-462e2d4b4b13)
 
 </a>

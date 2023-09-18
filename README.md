@@ -19,14 +19,15 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 - 🌱 I’m currently learning DL to graduate from ML <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee, <br>
-and I won't stop until I find it. ☕ <br>
+  and I won't stop until I find it. ☕ <br>
 - 🎓 I hold degrees in Business Informatics and Marketing <br>
 - 📊 Data visualization tools I excel in are not Excel. <br>
 - 🗺️ My dream project involves customer analysis <br>
 - 🏋️ I believe in maintaining a healthy work-life <br>
-balance by consuming copious amounts of coffee <br>
+  balance by consuming copious amounts of coffee <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
-- 🧾 I have experience in data preprocessing and cleaning, which is essential for basically anything <br>
+- 🧾 I have experience in data preprocessing and cleaning, <br>
+  which is essential for basically anything <br>
 - 📊 I pronounce SQL like "sequel" <br>
 + 🍩 Donuts and code—a hole lot of fun! 🍩💻 <br>
 

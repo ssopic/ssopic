@@ -1,4 +1,7 @@
 
+![Static Badge](https://img.shields.io/badge/PowerBI)
+![Static Badge](https://img.shields.io/badge/PowerBI)
+![Static Badge](https://img.shields.io/badge/PowerBI)
 
 
 

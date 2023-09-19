@@ -7,7 +7,7 @@
 - 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
 - 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
 - 📚 Turning raw data into valuable stories, one analysis at a time. 📈 <br>
-- 📊 Data visualization tools I excel in are Tableau, PowerBI, and Cognos. <br>
+- 📊 Data visualization tools I Excel™ in are Tableau, PowerBI, and Cognos. <br>
 - 📈 Data isn't just numbers; it's stories waiting to be told. <br>
 - 📊 My code transforms numbers into insights. <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>

@@ -6,7 +6,7 @@
 
 ```javascript
 const Silvio = {
-  Experience: [KBC, Accenture]
+  Experience: [KBC, Accenture],
   Education: [KU Leuven, Zagreb School of Economics and Management]
   
 }

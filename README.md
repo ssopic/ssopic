@@ -4,13 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-```javascript
-const Silvio = {
-  Experience: [KBC, Accenture],
-  Education: [KU Leuven, Zagreb School of Economics and Management]
-  
-}
-```
+
 
 
 <img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="350px" height="360px" />
@@ -23,6 +17,20 @@ const Silvio = {
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
 - 📚 My current goals are to explore the hugging face library and develop my NLP and LLM skills.
 
+```javascript
+Class Silvio:
+  def __init__(self, Experience, Education):
+
+#Short summary
+  Experience = [KBC, Accenture]
+  Education: [KU Leuven, Zagreb School of Economics and Management]
+
+#Goals
+  def my_func(Slay, Play):
+    Slay=True
+    Play=False
+}
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **Skills**

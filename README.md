@@ -20,95 +20,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-```javascript
-class Silvio:
-    def __init__(self):
-        # Short summary
-        self.experience = [
-            {
-                "date_range": "04/2023 - Now",
-                "position": "Self Employment",
-                "responsibilities": [
-                    "Developed and maintained partnerships with affiliate networks and affiliates.",
-                    "Conducted market research to identify potential partners and niche opportunities.",
-                    "Tracked and analyzed campaign performance metrics."
-                ]
-            },
-            {
-                "date_range": "08/2022 - 01/2023",
-                "position": "KBC - Young Graduate Program | Functional Analyst",
-                "responsibilities": [
-                    "Implemented a Python script for straight-through processing by generating SQL queries.",
-                    "Participated in various parts of the ETL process as a Functional Analyst.",
-                    "Coordinated effectively with the security department.",
-                    "Updated internal codebooks using SAP PowerDesigner and Teradata.",
-                    "Attended rituals of the Scaled Agile Framework (SAFe)."
-                ]
-            },
-            {
-                "date_range": "10/2021 - 04/2022",
-                "position": "Accenture - Functional Analyst",
-                "responsibilities": [
-                    "Performed ETL output comparison between Snowflake and SAP HANA using Excel.",
-                    "Contributed as a member of the Internal ART: AI for Financial Services team.",
-                    "Developed prediction models for financial services.",
-                    "Analyzed Credit risk modeling.",
-                    "Participated in PowerBI, Azure fundamentals, and Azure data fundamentals trainings."
-                ]
-            }
-        ]
-        self.education = [
-            {
-                "date_range": "09/2018 - 09/2021",
-                "degree": "MsC Information Management | MSc Business Economics",
-                "institution": "KU Leuven (Times Higher Education Ranking: 42nd)",
-                "details": {
-                    "Information Management": {
-                        "courses": [
-                            "Data Science",
-                            "Data Engineering",
-                            "Data Analysis",
-                            "Software Development"
-                        ],
-                        "thesis": "The impact of POI data on price prediction models.",
-                        "achievements": [
-                            "Nominated for LIRIS thesis competition in the category of 'POI in real estate price prediction.'",
-                            "Feature engineering using distance calculation in Euclidean space.",
-                            "Developed dashboards in Tableau (3).",
-                            "Implemented prediction models using random forest regressor with k-fold optimization."
-                        ]
-                    },
-                    "Business Economics": {
-                        "courses": [
-                            "Experiment replication with technical analysis using ANOVA",
-                            "Mediation and moderation analysis",
-                            "Survey analysis"
-                        ],
-                        "achievements": [
-                            "Obtained Google Cloud certification during the program."
-                        ]
-                    }
-                }
-            },
-            {
-                "date_range": "General MBA - 04/2015-06/2018",
-                "degree": "Zagreb School of Economics and Management (QS Global MBA Ranking: Top 200)",
-                "details": "Equipped with a holistic business understanding and strategy."
-            }
-        ]
-
-    # Goals
-    def my_func(self, Slay, Play):
-        Slay = True
-        Play = False
-
-```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 **Skills**
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -203,3 +114,92 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 
 </a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+```javascript
+class Sopic_CV:
+    def __init__(self):
+        # Short summary
+        self.experience = [
+            {
+                "date_range": "04/2023 - Now",
+                "position": "Self Employment",
+                "responsibilities": [
+                    "Developed and maintained partnerships with affiliate networks and affiliates.",
+                    "Conducted market research to identify potential partners and niche opportunities.",
+                    "Tracked and analyzed campaign performance metrics."
+                ]
+            },
+            {
+                "date_range": "08/2022 - 01/2023",
+                "position": "KBC - Young Graduate Program | Functional Analyst",
+                "responsibilities": [
+                    "Implemented a Python script for straight-through processing by generating SQL queries.",
+                    "Participated in various parts of the ETL process as a Functional Analyst.",
+                    "Coordinated effectively with the security department.",
+                    "Updated internal codebooks using SAP PowerDesigner and Teradata.",
+                    "Attended rituals of the Scaled Agile Framework (SAFe)."
+                ]
+            },
+            {
+                "date_range": "10/2021 - 04/2022",
+                "position": "Accenture - Functional Analyst",
+                "responsibilities": [
+                    "Performed ETL output comparison between Snowflake and SAP HANA using Excel.",
+                    "Contributed as a member of the Internal ART: AI for Financial Services team.",
+                    "Developed prediction models for financial services.",
+                    "Analyzed Credit risk modeling.",
+                    "Participated in PowerBI, Azure fundamentals, and Azure data fundamentals trainings."
+                ]
+            }
+        ]
+        self.education = [
+            {
+                "date_range": "09/2018 - 09/2021",
+                "degree": "MsC Information Management | MSc Business Economics",
+                "institution": "KU Leuven (Times Higher Education Ranking: 42nd)",
+                "details": {
+                    "Information Management": {
+                        "courses": [
+                            "Data Science",
+                            "Data Engineering",
+                            "Data Analysis",
+                            "Software Development"
+                        ],
+                        "thesis": "The impact of POI data on price prediction models.",
+                        "achievements": [
+                            "Nominated for LIRIS thesis competition in the category of 'POI in real estate price prediction.'",
+                            "Feature engineering using distance calculation in Euclidean space.",
+                            "Developed dashboards in Tableau (3).",
+                            "Implemented prediction models using random forest regressor with k-fold optimization."
+                        ]
+                    },
+                    "Business Economics": {
+                        "courses": [
+                            "Experiment replication with technical analysis using ANOVA",
+                            "Mediation and moderation analysis",
+                            "Survey analysis"
+                        ],
+                        "achievements": [
+                            "Obtained Google Cloud certification during the program."
+                        ]
+                    }
+                }
+            },
+            {
+                "date_range": "General MBA - 04/2015-06/2018",
+                "degree": "Zagreb School of Economics and Management (QS Global MBA Ranking: Top 200)",
+                "details": "Equipped with a holistic business understanding and strategy."
+            }
+        ]
+
+    # Goals
+    def my_func(self, Slay, Play):
+        Slay = True
+        Play = False
+
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

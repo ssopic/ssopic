@@ -16,7 +16,6 @@
 - 📊 My code transforms numbers into insights. <br>
 - 🏫 I'm interested in online courses and certifications related to DL and ML <br>
 - 📚 My current goals are to explore the hugging face library and develop my NLP and LLM skills.
-- My faveourite IDE is vim
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -97,8 +97,17 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
   </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#The talks about part
 
-  
+
+<img align="left" alt="GIF" src="https://github.com/ssopic/ssopic/blob/main/seg_img.png" width="20px" height="20" />
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 🔗 &nbsp;**Connect with me**
 

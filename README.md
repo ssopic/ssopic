@@ -100,7 +100,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 #The talks about part
 
 
-<img align="left" alt="GIF" src="https://github.com/ssopic/ssopic/blob/main/seg_img.png" width="20px" height="20" />
+<img align="left" alt="GIF" src="https://github.com/ssopic/ssopic/blob/main/seg_img.png" width="100px" height="100" />
 
 
 

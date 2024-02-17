@@ -106,9 +106,6 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 ## Samples
 
-### Unreavelling the Essence of Effective Market Segmentation
-
-<img align="right" alt="GIF" src="https://github.com/ssopic/ssopic/blob/main/seg_img.png" width="150px" height="150" />
 
 ### The impact of POI-data on price prediction models
 #### An Award winning thesis

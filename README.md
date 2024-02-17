@@ -113,11 +113,11 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 [View repository and notebook NOW](https://github.com/ssopic/Unreavelling_the_Essence_of_Effective_Market_Segmentation)
 
 
-### 
+### To Oversample or Undersample
 
 <img align="right" alt="GIF" src="https://github.com/ssopic/To_Oversample_or_Undersample/blob/main/cover%20image.png" width="150px" height="150" />A human resources dataset containing demographics, compensation, and tenure information serves as the foundation. Analyzing various models like Logistic Regression and Random Forest, the exploration uncovers how data balancing through techniques like SMOTE and ADASYN influences prediction accuracy. By evaluating metrics like precision and AUC, the study identifies SMOTE as the champion, highlighting its effectiveness in this specific scenario.
 
-[View repository and notebook NOW](https://github.com/ssopic/Unreavelling_the_Essence_of_Effective_Market_Segmentation)
+[View repository and notebook NOW](https://github.com/ssopic/To_Oversample_or_Undersample)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

@@ -3,6 +3,23 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=1538F7&center=left&width=435&lines=Data+Science;Data+Visualization;Data+Engineering;Data+Analysis;Marketing" alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
+
+<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="350px" height="360px" />
+- 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
+- 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
+- 📚 Turning raw data into valuable stories, one analysis at a time. 📈 <br>
+- 📊 Data visualization tools I Excel™ in are Tableau, PowerBI, and Cognos. <br>
+- 📈 Data isn't just numbers; it's stories waiting to be told. <br>
+- 📊 My code transforms numbers into insights. <br>
+- 🏫 I'm interested in online courses and certifications related to DL and ML <br>
+- 📚 My current goals are to explore the hugging face library and develop my NLP and LLM skills.
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 🔗 &nbsp;**Connect with me**
 
 <a href="https://www.linkedin.com/in/silvio-sopic/" target="blank">
@@ -17,21 +34,6 @@
 
 
 </a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-<img align="left" alt="GIF" src="https://i.imgur.com/6bJkPh0.gif" width="350px" height="360px" />
-- 🎓 I hold degrees in Business Informatics, Marketing, and a General MBA <br>
-- 🚀 I'm on a quest to discover the perfect cup of coffee,  and I won't stop until I find it. ☕ <br>
-- 📚 Turning raw data into valuable stories, one analysis at a time. 📈 <br>
-- 📊 Data visualization tools I Excel™ in are Tableau, PowerBI, and Cognos. <br>
-- 📈 Data isn't just numbers; it's stories waiting to be told. <br>
-- 📊 My code transforms numbers into insights. <br>
-- 🏫 I'm interested in online courses and certifications related to DL and ML <br>
-- 📚 My current goals are to explore the hugging face library and develop my NLP and LLM skills.
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

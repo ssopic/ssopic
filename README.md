@@ -112,6 +112,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 Real estate price prediction has been a hot topic for countless years and will continue to be so. While already being extensively researched the focus has only shifted towards the inclusion and study of external influences, such as location on a property in the more recent years. Continuing with this trend our thesis captured the influence of points of interest out of the Yelp database on our properties dataset from King County, USA. Having to cope with the impressive size of the Yelp database this thesis focussed mainly on the possible influential presence of 35 big categories of points of interest, within certain ranges of a property and their corresponding ratings, on the price prediction model. The analysis resulted in a list of important features in the surroundings of a property with the amount of parks within 2 kilometres, the quality of home services within 2 kilometres, the amount of elementary schools within 2 kilometres and the amount of gyms within 2 kilometres being the most important in predicting the price of real estate value. These features improved model performance in both accuracy and error values.
 [View repository, notebook, and paper NOW](https://github.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models)
+
 [View Tableau Visualizations NOW](https://github.com/ssopic/TableauPortfolio)
 
 

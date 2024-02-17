@@ -108,6 +108,17 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 ### Unreavelling the Essence of Effective Market Segmentation
 
+<img align="right" alt="GIF" src="https://github.com/ssopic/ssopic/blob/main/seg_img.png" width="150px" height="150" />
+
+### The impact of POI-data on price prediction models
+#### An Award winning thesis
+<img src="https://github.com/ssopic/The-impact-of-POI-data-on-price-prediciton-models/blob/main/scan_u0063991_2022-02-03-12-00-12%20(1)%20(1).pdf" style="transform: rotate(90deg);">
+
+Real estate price prediction has been a hot topic for countless years and will continue to be so. While already being extensively researched the focus has only shifted towards the inclusion and study of external influences, such as location on a property in the more recent years. Continuing with this trend our thesis captured the influence of points of interest out of the Yelp database on our properties dataset from King County, USA. Having to cope with the impressive size of the Yelp database this thesis focussed mainly on the possible influential presence of 35 big categories of points of interest, within certain ranges of a property and their corresponding ratings, on the price prediction model. The analysis resulted in a list of important features in the surroundings of a property with the amount of parks within 2 kilometres, the quality of home services within 2 kilometres, the amount of elementary schools within 2 kilometres and the amount of gyms within 2 kilometres being the most important in predicting the price of real estate value. These features improved model performance in both accuracy and error values.
+
+
+### Unreavelling the Essence of Effective Market Segmentation
+
 <img align="left" alt="GIF" src="https://github.com/ssopic/ssopic/blob/main/seg_img.png" width="150px" height="150" />In today's dynamic business world, understanding your customers is crucial. Market segmentation, the art of dividing consumers into unique groups based on needs and behaviors, empowers marketers to craft targeted strategies and maximize impact. This article explores the three pillars of effective segmentation: creating homogeneous groups within segments, ensuring distinctiveness between segments, and extracting actionable insights. Through crafting well-defined segments, predicting their behavior, and translating understanding into personalized marketing, join us on a journey to connect with your customers on a deeper level.
 
 [View repository and notebook NOW](https://github.com/ssopic/Unreavelling_the_Essence_of_Effective_Market_Segmentation)

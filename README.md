@@ -115,7 +115,7 @@ alt="SQL" width="55" height="55"/> </a><img src=https://cdn4.iconfinder.com/data
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##Samples
+## Samples
 
 Unreavelling the Essence of Effective Market Segmentation
 

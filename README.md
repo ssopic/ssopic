@@ -127,6 +127,7 @@ Unreavelling the Essence of Effective Market Segmentation
 <a href="https://github.com/ssopic/ssopic/blob/main/Sopic_CV%20(1).pdf" target="blank" allign="center">
   <img src="https://tse1.mm.bing.net/th?id=OIP.lKS6QXGTekDMTVTcUEGyqwHaHa&pid=Api&P=0&h=220" alt="Download CV" width="40" height="30" />
 </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ```javascript
